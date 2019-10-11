@@ -1,0 +1,5 @@
+Wind Sound Effect - Lanea Zimmerman
+Inflate/Deflate Sound - joedeshon
+Explosion sound - https://opengameart.org/content/9-explosion-sounds (author Unnamed)
+Johnny (derpling) character animations - Saki
+pytmx/pyscroll - bitcraft
